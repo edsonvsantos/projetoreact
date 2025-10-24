@@ -1,5 +1,5 @@
 import React from 'react';
-import 'boorstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min';
 import './App.css';
 
@@ -26,4 +26,5 @@ function App(){
       </Router>
     </AuthProvider>
   )
+
 }
